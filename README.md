@@ -1,2 +1,2 @@
 # anushka-portfolio-website
-Creating a personal portfolio website by using HTML,CSS,and JS
+A personal portfolio website by using HTML,CSS,and JS
